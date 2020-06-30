@@ -10,6 +10,8 @@
 git clone https://github.com/thriftshop-fn/template
 ```
 
+- [ ] cp .env.example .env anad edit .env
+
 - [ ] Create New API Function
 
 ```sh
@@ -21,6 +23,9 @@ netlify functions:create --name api
 ```sh
 npm install package1 package2 package3
 ```
+
+- [ ] Update netlify.toml template variable
+
 
 - [ ] Modify 1 Click Deploy URL
 
