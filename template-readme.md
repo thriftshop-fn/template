@@ -5,7 +5,7 @@
 - Call This Link To Access The Function
 
 ```js
-`${username}-tss-fn-${function_name}.domain.com/api`
+${username}-tss-fn-${function_name}.domain.com/api
 ```
 
 ## Deploy Button
