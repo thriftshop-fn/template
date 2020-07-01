@@ -4,8 +4,8 @@
 
 - Call This Link To Access The Function
 
-```sh
-${username}-tss-fn-create-link.domain.com/api
+```js
+${username}-tss-fn-${function_name}.domain.com/api
 ```
 
 ## Deploy Button
