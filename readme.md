@@ -7,7 +7,7 @@
 - [ ] Clone this Repo
 
 ```sh
-git clone https://github.com/thriftshop-fn/template MICROSERVICE_NAME
+git clone https://github.com/thriftshop-site/template MICROSERVICE_NAME
 cd  MICROSERVICE_NAME
 ```
 
